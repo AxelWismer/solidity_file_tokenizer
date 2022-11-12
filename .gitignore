@@ -1,3 +1,21 @@
+# Custom
+/samples
+node_modules
+ignore
+.env.example
+
+#Hardhat files
+cache
+artifacts
+factories
+typechain
+
+yarn.lock
+
+.env
+
+typechain/*
+
 # Logs
 logs
 *.log
